@@ -1,1 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Rajshahi Silk Saree – Coral Bloom",
+    "price": 2999,
+    "gst": 18,
+    "image": "images/rajshahi-coral.jpg",
+    "category": "Silk Sarees",
+    "fabric": "Rajshahi Silk",
+    "availability": "In Stock"
+  },
+  {
+    "id": 2,
+    "name": "Soft Jamdani Saree – Sky Whisper",
+    "price": 2499,
+    "gst": 18,
+    "image": "images/jamdani-sky.jpg",
+    "category": "Jamdani Sarees"
+  }
+]
 
